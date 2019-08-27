@@ -103,7 +103,7 @@ if __name__ == "__main__":
         results = results[0]
         # print(results)
 
-        if sum(input_array) == 2:
+        if sum(input_array) == 1.5:
             target = 1
         else:
             target = 0.5
