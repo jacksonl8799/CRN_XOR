@@ -155,7 +155,7 @@ if __name__ == "__main__":
                 out_array = results['output']
                 out = out_array[v1]
 
-                if sum(input_array) == 2:
+                if sum(input_array) == 1.5:
                     target = 100
                 else:
                     target = 50
